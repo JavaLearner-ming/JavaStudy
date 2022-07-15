@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../mArrayTest/mArrayTest.iml" filepath="$PROJECT_DIR$/../mArrayTest/mArrayTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mMethodTest/mMethodTest.iml" filepath="$PROJECT_DIR$/../mMethodTest/mMethodTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mOop/mOop.iml" filepath="$PROJECT_DIR$/../mOop/mOop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mString/mString.iml" filepath="$PROJECT_DIR$/../mString/mString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mStudentManager/mStudentManager.iml" filepath="$PROJECT_DIR$/../mStudentManager/mStudentManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mTwoDimensionalArray/mTwoDimensionalArray.iml" filepath="$PROJECT_DIR$/../mTwoDimensionalArray/mTwoDimensionalArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myArrayList/myArrayList.iml" filepath="$PROJECT_DIR$/../myArrayList/myArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfirstjava.iml" filepath="$PROJECT_DIR$/myfirstjava.iml" />
+    </modules>
+  </component>
+</project>
